@@ -1,0 +1,26 @@
+<spreadsheet>
+  <cell name="A1">
+    <text>=2</text>
+	<bgcolor>4294967168</bgcolor>
+  </cell>
+  <cell name="A2">
+    <bgcolor>4294967295</bgcolor>
+    <text />
+  </cell>
+  <cell name="C1">
+    <bgcolor>4294967168</bgcolor>
+    <text>=4</text>
+  </cell>
+  <cell name="B1">
+    <bgcolor>4294967168</bgcolor>
+    <text />
+  </cell>
+  <cell name="B2">
+    <bgcolor>4294967295</bgcolor>
+    <text>=A1+C1</text>
+  </cell>
+  <cell name="B3">
+    <bgcolor>4294967295</bgcolor>
+    <text />
+  </cell>
+</spreadsheet>
