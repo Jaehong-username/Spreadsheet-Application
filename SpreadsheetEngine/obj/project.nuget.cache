@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sBydAnczTdqrUZQlPcBTTHO0t3lmzrhqYvzKOmvjncwcP24cDbHVctyu5QbEaGIWJIdm/Gl2j+XKHbo0Vjfb1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\14253\\Desktop\\CPTs321\\CptS321-Jaehong_Lee-HWs\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\14253\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
